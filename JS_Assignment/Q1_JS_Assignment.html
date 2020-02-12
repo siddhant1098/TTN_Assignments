@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<script>
+function simpleinterest(){
+    var a= prompt('Please enter Amount');
+    var r = prompt('Please enter Rate');
+    var t = prompt('Please enter No. of years'); 
+    var p   = (a/(1 + r*t)) 
+
+    var si = (p*r*t)/100;
+    document.getElementById('si').innerHTML="Simple Interest (calculated anually) is: "+si;
+}
+</script>
+</head>
+<body>
+    
+    <button onclick="simpleinterest()">Simple Interest</button>
+    <p id="si"></p>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<script>  
+function palindrome(str){
+    var str = prompt('Please enter the String');
+var len = str.length;
+var mid = Math.floor(len/2);
+
+for ( var i = 0; i < mid; i++ ) {
+    if (str[i] !== str[len - 1 - i]) {
+        document.write("FALSE");
+        return false;
+    }
+}
+document.write("TRUE");
+return true;
+}
+</script>
+</head>
+<body>
+    
+    <button onclick="palindrome()">Click to Check Palindrome</button>
+    
+</body>
+</html>
