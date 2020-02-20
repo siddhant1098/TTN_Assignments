@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bb91b02-2874-4783-a270-e2b1ccf35a05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1UTADw1R0G6EnQZE52dGEN0ki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Q9_semaphore">
+    <configuration name="Q4_synchronizationMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.multithreading.Q4_Synchronization.Q4_synchronizationMethod" />
+      <module name="Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment3.multithreading.Q4_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5_threadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.multithreading.Q5_threadPool.Q5_threadPool" />
+      <module name="Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment3.multithreading.Q5_threadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6_wait_notify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.multithreading.Q6_wait_notify.Q6_wait_notify" />
+      <module name="Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment3.multithreading.Q6_wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q9_semaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.multithreading.Q9_semaphore.Q9_semaphore" />
+      <module name="Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment3.multithreading.Q9_semaphore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="using_Runnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.multithreading.Q2_threadCreation.using_Runnable" />
+      <module name="Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment3.multithreading.Q2_threadCreation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q9_semaphore" />
+        <item itemvalue="Application.using_Runnable" />
+        <item itemvalue="Application.Q6_wait_notify" />
+        <item itemvalue="Application.Q5_threadPool" />
+        <item itemvalue="Application.Q4_synchronizationMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb91b02-2874-4783-a270-e2b1ccf35a05" name="Default Changelist" comment="" />
+      <created>1582109598982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582109598982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1582140408268">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582140408268" />
+    <state x="457" y="305" width="509" height="182" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582116729185">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="457" y="305" width="509" height="182" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1582116729185" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1582197884128">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582197884128" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1582197884127">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582197884127" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1582197884127">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582197884127" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1582197884127">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582197884127" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582197923691">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582197923691" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1582178200214">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1582178200214" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1582124127288">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1582124127288" />
+  </component>
+</project>
